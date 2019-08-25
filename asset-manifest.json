@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/_FinancialAnalysis/static/css/main.be6c77d9.chunk.css",
-    "main.js": "/_FinancialAnalysis/static/js/main.6392bc94.chunk.js",
-    "main.js.map": "/_FinancialAnalysis/static/js/main.6392bc94.chunk.js.map",
-    "runtime~main.js": "/_FinancialAnalysis/static/js/runtime~main.9f077c4d.js",
-    "runtime~main.js.map": "/_FinancialAnalysis/static/js/runtime~main.9f077c4d.js.map",
-    "static/js/2.45fe23f9.chunk.js": "/_FinancialAnalysis/static/js/2.45fe23f9.chunk.js",
-    "static/js/2.45fe23f9.chunk.js.map": "/_FinancialAnalysis/static/js/2.45fe23f9.chunk.js.map",
-    "index.html": "/_FinancialAnalysis/index.html",
-    "precache-manifest.3ec89cb0b32aa29c75f70546019e3a3e.js": "/_FinancialAnalysis/precache-manifest.3ec89cb0b32aa29c75f70546019e3a3e.js",
-    "service-worker.js": "/_FinancialAnalysis/service-worker.js",
-    "static/css/main.be6c77d9.chunk.css.map": "/_FinancialAnalysis/static/css/main.be6c77d9.chunk.css.map",
-    "static/media/sayKaren_Logo_transparent_7.2019.png": "/_FinancialAnalysis/static/media/sayKaren_Logo_transparent_7.2019.4ee98378.png"
+    "main.css": "/BusinessFinancialAnalysis/static/css/main.be6c77d9.chunk.css",
+    "main.js": "/BusinessFinancialAnalysis/static/js/main.bc5b2bb6.chunk.js",
+    "main.js.map": "/BusinessFinancialAnalysis/static/js/main.bc5b2bb6.chunk.js.map",
+    "runtime~main.js": "/BusinessFinancialAnalysis/static/js/runtime~main.7c44f5e9.js",
+    "runtime~main.js.map": "/BusinessFinancialAnalysis/static/js/runtime~main.7c44f5e9.js.map",
+    "static/js/2.45fe23f9.chunk.js": "/BusinessFinancialAnalysis/static/js/2.45fe23f9.chunk.js",
+    "static/js/2.45fe23f9.chunk.js.map": "/BusinessFinancialAnalysis/static/js/2.45fe23f9.chunk.js.map",
+    "index.html": "/BusinessFinancialAnalysis/index.html",
+    "precache-manifest.08446e324a78de7764afe316ab8b6707.js": "/BusinessFinancialAnalysis/precache-manifest.08446e324a78de7764afe316ab8b6707.js",
+    "service-worker.js": "/BusinessFinancialAnalysis/service-worker.js",
+    "static/css/main.be6c77d9.chunk.css.map": "/BusinessFinancialAnalysis/static/css/main.be6c77d9.chunk.css.map",
+    "static/media/sayKaren_Logo_transparent_7.2019.png": "/BusinessFinancialAnalysis/static/media/sayKaren_Logo_transparent_7.2019.4ee98378.png"
   }
 }
